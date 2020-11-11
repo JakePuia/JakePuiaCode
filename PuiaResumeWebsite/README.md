@@ -1,2 +1,2 @@
-# JakePuiaCode
+# Resume Website Source Code
  This is the source code of the website that I created. I wrote all of the code 100% from scratch and it is written in HTML5, CSS, PHP, and JavaScript. To view the website please use the following URL. www.jakepuiaresume.com/home.php
