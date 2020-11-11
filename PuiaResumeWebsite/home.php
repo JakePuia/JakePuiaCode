@@ -171,14 +171,14 @@
                 </p>
             </div>
 
-            <h2 align=center style=""> <b> Github Repository:</b></h2>
+            <h2 align=center style=""> <b> GitHub Repository:</b></h2>
 
             <div class="a" style="margin-top: -4em">
             <div>
                 <a href="https://github.com/JakePuia/PuiaGithub" ><img class="github" src="Github.png"></a>
             </div>
             <p class="sometext" style="padding-right: 8em">
-            Please click on the Github image to head over to my Github Repository! This repository will contain sample code
+            Please click on the GitHub image to head over to my GitHub Repository! This repository will contain sample code
             that I have written over my career at Juniata. This code includes everything from Java to C++. In additon to my 
             sample code is the source code that powers this website! 
             </p>
