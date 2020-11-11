@@ -90,8 +90,11 @@
                             Please feel free to contact me with any questions! </br>
                             <a href="mailto: puiajr17@juniata.edu"> puiajr17@juniata.edu </a>
                             </br>
-                            </br>
-                            LinkedIn: </br>
+                        </p>
+                        <h3 class=headers>
+                            LinkedIn:
+                        </h3>
+                        <p>
                             <a href="https://www.linkedin.com/in/jakepuia/"> Jake Puia LinkedIn </a>
                         </p>
                         </br>

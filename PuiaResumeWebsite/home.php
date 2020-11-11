@@ -49,7 +49,6 @@
     .jakepuia{
         float: right;
         margin: 1em;
-        border-radius: 50%;
         display: inline-block; 
         padding-top: 5em;
         padding-bottom: 5em;
@@ -107,6 +106,19 @@
         width: 20%;
     }
 
+    .github{
+        float: left;
+        margin: 1em;
+        display: inline-block; 
+        padding-top: 5em;
+        padding-bottom: 5em;
+        padding-left: 8em;
+        padding-right: 2em;
+        position: relative;
+        width: 475px;
+        height: 425px;
+    }
+
 
     </style>
   </head>
@@ -124,6 +136,10 @@
                         <?php 
                             include 'NavBarLeft.html';
                             include 'header.html';
+                        ?>
+                        <div style="padding-top: 3em;">
+                        </div>
+                        <?php 
                             include 'carousel.html';
                         ?>
             </div>
@@ -140,9 +156,9 @@
                 
             </div>
 
-            <h2 align=center style="padding-top: 3em; padding-bottom: -3em"> <b> About Me:</b></h2>
+            <h2 align=center style="padding-top: 3em;"> <b> About Me:</b></h2>
 
-            <div class="a">
+            <div class="a" style="margin-top: -4em">
                 <div>
                     <a href="http://www.jakepuiaresume.com/about.php#" ><img class="jakepuia" src="jakepuia.JPG"></a>
                 </div>
@@ -153,6 +169,19 @@
                         Contact me at <a href="mailto: puiajr17@juniata.edu">puiajr17@juniata.edu</a> and I will get back to you as 
                         soon as I possibly can!
                 </p>
+            </div>
+
+            <h2 align=center style=""> <b> Github Repository:</b></h2>
+
+            <div class="a" style="margin-top: -4em">
+            <div>
+                <a href="https://github.com/JakePuia/PuiaGithub" ><img class="github" src="Github.png"></a>
+            </div>
+            <p class="sometext" style="padding-right: 8em">
+            Please click on the Github image to head over to my Github Repository! This repository will contain sample code
+            that I have written over my career at Juniata. This code includes everything from Java to C++. In additon to my 
+            sample code is the source code that powers this website! 
+            </p>
             </div>
 
             <h2 align=center style="padding-bottom: 1em;"> <b>Some Interesting Facts:</b></h2>
