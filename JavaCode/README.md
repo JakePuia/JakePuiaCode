@@ -1,0 +1,2 @@
+# Random Writer Java Application
+This is a Java program that I wrote with one of my colleagues for Computer Scicence II. It was written my sophomore year of College. The program will take in a .txt file and randomly regenerate the words to an output file desired by the user. 
