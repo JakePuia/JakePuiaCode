@@ -11,7 +11,7 @@
 
 This semester (spring 2020) I am taking a C++ coding course to get an in depth view of 
 C++ coding. This is one of the first 3 programs I have written. By the end of the semester
-I wrote written 12 programs, each one more complex than the last.
+I wrote 12 programs, each one more complex than the last.
 */
 
 #include <iostream>
